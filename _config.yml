@@ -2,7 +2,7 @@
 title: An example home page
 description: An example home page
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://deangodfree.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Dean Godfree
